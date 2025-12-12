@@ -53,7 +53,7 @@ cd cs50-final-project-stock-management
 
 ## Demonstration Video
 
-https://www.youtube.com/watch?v=Mlj3HvWh7Ho
+https://www.youtube.com/watch?v=uzCo_6zFH0w
 
 ---
 
@@ -69,6 +69,7 @@ No external servers or cloud services are used.
 This project was developed as my CS50 Final Project.  
 All code was written by me. Official documentation and online resources were used for learning Flutter, SQLite, and PDF generation concepts.  
 No unauthorized collaboration or code copying was involved.
+
 
 
 
